@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e5Hao+ZZHE8DgwGNUavAWPJaFzhe0Lr8zh95BDaYi99OjUMfHDT+lAVBLpCu0EoEC9SAzn/xdtl4XJ7bdioKJg==",
+  "success": true,
+  "projectFilePath": "C:\\Cursos\\DigitalOne\\dio-dotnet-poo-lab-2-master\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}
